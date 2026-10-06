@@ -117,6 +117,6 @@ The practical consequence: two teams can run identical reports on identical data
 - Cost optimisation through partition pruning and columnar file formats
 - Reading Athena execution metrics (data scanned, run time) to verify optimisation
 
-## Connect
+*Built and measured by Anu Agarwal — [linkedin.com/in/agarwalanu](https://www.linkedin.com/in/agarwalanu)*
 
-I write about AWS architecture and hands-on builds on LinkedIn: [linkedin.com/in/agarwalanu](https://www.linkedin.com/in/agarwalanu)
+<img width="732" height="56" alt="image" src="https://github.com/user-attachments/assets/6d6d2775-4fcf-45af-a872-aa3b19b7db72" />
